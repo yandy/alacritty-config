@@ -143,7 +143,6 @@ action = "ResetFontSize"
 
 [general]
 live_config_reload = true
-working_directory = "/home/yandy/workspace"
 import = [
     "~/.config/alacritty/theme.toml"
 ]
